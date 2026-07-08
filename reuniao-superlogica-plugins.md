@@ -111,3 +111,8 @@ _Data: 2026-07-08_
 - Plugin **"Gerar Pasta"**.
 - Permite **personalizar a pasta digital de cada cliente**: **capa diferenciada, contra-capa, numeração**.
 
+### 18. Plugin #10 — "Histórico - Geral" (VAN bancária)
+- Plugin de **VAN bancária**.
+- Obtém os **arquivos remessa** do SL e **entrega para a VAN**.
+- Pega os **arquivos retorno** e **manda para o SL**.
+
