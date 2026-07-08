@@ -72,3 +72,7 @@ _Data: 2026-07-08_
 - Alguns plugins usam um **banco de dados próprio**.
 - 💭 **Hipótese (minha):** então o **Nexus é um app por si só** (?) — *confirmar*.
 
+### 10. Autenticação / auditoria
+- As pessoas **logam nos plugins com o próprio usuário SL**.
+- Assim, **toda ação feita via plugins fica registrada no SL** como **auditoria**.
+
