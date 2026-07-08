@@ -64,3 +64,7 @@ _Data: 2026-07-08_
 - Lista os impostos de **PIS / COFINS / CSLL** de cada condomínio.
 - Objetivo: **bater/conferir com a guia do DARF**.
 
+### 8. Plugin #3 — Relatório de saldos dos condomínios
+- **Relatório de saldos** dos condomínios.
+- Com **análise de variação no tempo**.
+
