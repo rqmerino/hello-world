@@ -91,3 +91,7 @@ _Data: 2026-07-08_
 - Ele mencionou a **"esteira do contas a pagar"**.
 - 💡 **Ideia (minha):** controlar, para cada conta, **todos os estágios** e o **tempo que a conta passa em cada estágio**, para entender **gargalos na produção**.
 
+### 14. Plugin #6 — "Nova campanha" (seguros opcionais)
+- Plugin **"Nova campanha"** de **seguros opcionais**.
+- Controla **quais unidades de quais condomínios** devem ou não **receber campanhas de seguros opcionais**.
+
