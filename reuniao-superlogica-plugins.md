@@ -100,4 +100,5 @@ _Data: 2026-07-08_
 - Mostra quantos **condomínios entraram e saíram**.
 - Número de **unidades que entraram e saíram**.
 - Segmentado **por bairro** e **por filial**.
+- Tem também um **mapa**.
 
