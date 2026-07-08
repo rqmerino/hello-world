@@ -60,3 +60,7 @@ _Data: 2026-07-08_
 - Permite **selecionar as contas contábeis** a serem monitoradas.
 - ❓ **Pergunta em aberto:** como o plugin **descobre que uma conta é débito automático (DA)**?
 
+### 7. Plugin #2 — Impostos PIS/COFINS/CSLL por condomínio
+- Lista os impostos de **PIS / COFINS / CSLL** de cada condomínio.
+- Objetivo: **bater/conferir com a guia do DARF**.
+
