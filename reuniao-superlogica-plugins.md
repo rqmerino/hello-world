@@ -68,3 +68,7 @@ _Data: 2026-07-08_
 - **Relatório de saldos** dos condomínios.
 - Com **análise de variação no tempo**.
 
+### 9. Infraestrutura / observação minha
+- Alguns plugins usam um **banco de dados próprio**.
+- 💭 **Hipótese (minha):** então o **Nexus é um app por si só** (?) — *confirmar*.
+
