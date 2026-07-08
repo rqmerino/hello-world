@@ -10,3 +10,6 @@ _Data: 2026-07-08_
 - Admitiram que no passado **pode ter havido um erro de estratégia**.
 - O dizer de mercado **"SL é um banco"** é algo que eles **não querem mais** ser associados.
 
+### 2. Plugins "Nexus"
+- Os plugins **"Nexus"** serão **altamente customizáveis**.
+
