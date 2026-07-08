@@ -102,3 +102,8 @@ _Data: 2026-07-08_
 - Segmentado **por bairro** e **por filial**.
 - Tem também um **mapa**.
 
+### 16. Plugin #8 — "Movimentação de carteira"
+- Plugin **"Movimentação de carteira"**.
+- **Replica uma função que já existe no ERP SL**.
+- Mostra: **Saldo Anterior, créditos, débitos, opcionais, saldo atual**.
+
