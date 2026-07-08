@@ -107,3 +107,7 @@ _Data: 2026-07-08_
 - **Replica uma função que já existe no ERP SL**.
 - Mostra: **Saldo Anterior, créditos, débitos, opcionais, saldo atual**.
 
+### 17. Plugin #9 — "Gerar Pasta"
+- Plugin **"Gerar Pasta"**.
+- Permite **personalizar a pasta digital de cada cliente**: **capa diferenciada, contra-capa, numeração**.
+
