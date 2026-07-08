@@ -55,3 +55,8 @@ _Data: 2026-07-08_
 - Plugins são feitos **por fora do ERP**, porque mexer **dentro do ERP** é muito trabalhoso.
 - Trabalham **via API SL**, mas respeitando **todos os guardrails da SL** para garantir segurança.
 
+### 6. Plugin #1 — Monitorar contas de pagamento em débito automático
+- Objetivo: **monitorar contas de pagamento em débito automático (DA)**.
+- Permite **selecionar as contas contábeis** a serem monitoradas.
+- ❓ **Pergunta em aberto:** como o plugin **descobre que uma conta é débito automático (DA)**?
+
