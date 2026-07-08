@@ -117,3 +117,5 @@ _Data: 2026-07-08_
 - Pega os **arquivos retorno** e **manda para o SL**.
 - Lista o **conteúdo de um dado arquivo retorno ou remessa**, com uma **UI fácil** para o usuário ver o que tem dentro de cada arquivo.
 
+> ✅ **Este foi o último plugin exibido na apresentação** (10 plugins demonstrados: #1 a #10).
+
