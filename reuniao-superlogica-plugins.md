@@ -76,3 +76,8 @@ _Data: 2026-07-08_
 - As pessoas **logam nos plugins com o próprio usuário SL**.
 - Assim, **toda ação feita via plugins fica registrada no SL** como **auditoria**.
 
+### 11. Paybox 2.0 (Fernanda)
+- A **Fernanda** melhorou muito a ferramenta **Paybox**.
+- Fez uma versão **"Paybox 2.0"** com **mais de 40 melhorias**.
+- ⚠️ Ainda **não está liberada**.
+
