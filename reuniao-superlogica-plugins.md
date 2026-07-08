@@ -81,3 +81,7 @@ _Data: 2026-07-08_
 - Fez uma versão **"Paybox 2.0"** com **mais de 40 melhorias**.
 - ⚠️ Ainda **não está liberada**.
 
+### 12. Plugin #4 — Contas a pagar (visão analítica)
+- **Reorganiza a tela de contas a pagar** com uma **visão mais analítica** de cada pagamento.
+- Tem uma **facilidade de lançamento rápido**, como a do **Paybox**.
+
