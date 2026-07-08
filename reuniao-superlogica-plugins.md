@@ -88,4 +88,6 @@ _Data: 2026-07-08_
 ### 13. Plugin #5 — Dashboard de despesas
 - **Dashboard de despesas** — plugin de **métricas de lançamento de contas a pagar**.
 - Similar ao **nosso KPI Contas a Pagar**.
+- Ele mencionou a **"esteira do contas a pagar"**.
+- 💡 **Ideia (minha):** controlar, para cada conta, **todos os estágios** e o **tempo que a conta passa em cada estágio**, para entender **gargalos na produção**.
 
