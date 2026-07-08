@@ -12,4 +12,13 @@ _Data: 2026-07-08_
 
 ### 2. Plugins "Nexus"
 - Os plugins **"Nexus"** serão **altamente customizáveis**.
+- Ciclo de vida de construção de um plugin:
+  1. **Solicitação**
+  2. **Orçamento**
+  3. **Aprovação**
+  4. **Desenvolvimento sob medida** ("alfaiataria")
+  5. **Uso inicial**
+  6. **Melhoramento para outros** (generalização)
+  7. **Avaliação e aglomeração** de plugins semelhantes
+  8. **Nomeação como plugin oficial** (com suporte, ex.: `plugin-produto`)
 
