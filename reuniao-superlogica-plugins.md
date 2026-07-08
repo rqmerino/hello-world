@@ -51,3 +51,7 @@ _Data: 2026-07-08_
 | 10 | [?] Prestação – Personalização completa [data prevista, valor [?]] | Concluído |
 | 11 | [?] Automática – Guia Única no Portal | Status diferente — talvez "Aguardando / Em desenvolvimento" [?] |
 
+### 5. Arquitetura / abordagem técnica
+- Plugins são feitos **por fora do ERP**, porque mexer **dentro do ERP** é muito trabalhoso.
+- Trabalham **via API SL**, mas respeitando **todos os guardrails da SL** para garantir segurança.
+
