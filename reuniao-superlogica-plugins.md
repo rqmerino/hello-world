@@ -115,4 +115,5 @@ _Data: 2026-07-08_
 - Plugin de **VAN bancária**.
 - Obtém os **arquivos remessa** do SL e **entrega para a VAN**.
 - Pega os **arquivos retorno** e **manda para o SL**.
+- Lista o **conteúdo de um dado arquivo retorno ou remessa**, com uma **UI fácil** para o usuário ver o que tem dentro de cada arquivo.
 
