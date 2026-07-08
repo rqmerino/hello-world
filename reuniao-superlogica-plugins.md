@@ -95,3 +95,9 @@ _Data: 2026-07-08_
 - Plugin **"Nova campanha"** de **seguros opcionais**.
 - Controla **quais unidades de quais condomínios** devem ou não **receber campanhas de seguros opcionais**.
 
+### 15. Plugin #7 — "Análise de carteira"
+- Dashboard **"Análise de carteira"**.
+- Mostra quantos **condomínios entraram e saíram**.
+- Número de **unidades que entraram e saíram**.
+- Segmentado **por bairro** e **por filial**.
+
