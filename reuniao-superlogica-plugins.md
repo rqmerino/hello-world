@@ -119,3 +119,8 @@ _Data: 2026-07-08_
 
 > ✅ **Este foi o último plugin exibido na apresentação** (10 plugins demonstrados: #1 a #10).
 
+---
+
+## Fase 2 — Conta Digital
+
+
