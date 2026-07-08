@@ -33,3 +33,21 @@ _Data: 2026-07-08_
 | Em desenvolvimento / validação | 21 | (8) |
 | Em análise | 29 | (9) |
 
+### 4. Primeiros plugins originados da reunião com os clientes RJ (reunião anterior)
+
+> ⚠️ Transcrição de foto borrada — baixa confiança. Partes incertas marcadas com `[?]`; **conferir depois**.
+
+| # | Nome do Plugin (Funcionalidade) | Status de Entrega |
+|---|---|---|
+| 1 | Dashboard [?] – Gerenciamento de despesas em débito automático | Concluído |
+| 2 | Dashboard de Gestão de Carteira (lucro, projeção, crescimento de unidades [?]) | Concluído |
+| 3 | Dashboard Métricas – Controla a criação e atualização de despesas | Concluído |
+| 4 | [?] de Gestão Condôminos com log de auditoria por grupos [?] | Concluído |
+| 5 | [?] Bancária – Gestão completa de Remessa e Retorno #Gestão[?] | Concluído |
+| 6 | Lançamento Despesas – Nova interface de lançamento rápido Payline[?] | Concluído |
+| 7 | [?] Opcionais – Gestão de campanhas de seguros online [?] | Concluído |
+| 8 | [?] seguros[?] – Relatório de conferência de Guia Única | Concluído |
+| 9 | [?] Carteira – Controle de saldo do condômino [Conta Pool] | Concluído |
+| 10 | [?] Prestação – Personalização completa [data prevista, valor [?]] | Concluído |
+| 11 | [?] Automática – Guia Única no Portal | Status diferente — talvez "Aguardando / Em desenvolvimento" [?] |
+
