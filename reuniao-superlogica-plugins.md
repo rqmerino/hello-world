@@ -85,3 +85,7 @@ _Data: 2026-07-08_
 - **Reorganiza a tela de contas a pagar** com uma **visão mais analítica** de cada pagamento.
 - Tem uma **facilidade de lançamento rápido**, como a do **Paybox**.
 
+### 13. Plugin #5 — Dashboard de despesas
+- **Dashboard de despesas** — plugin de **métricas de lançamento de contas a pagar**.
+- Similar ao **nosso KPI Contas a Pagar**.
+
